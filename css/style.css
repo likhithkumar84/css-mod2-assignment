@@ -4,14 +4,14 @@
 }
 
 h1 {
-  color: blue;
+  color: rgb(68, 0, 255);
   font-size: 175%;
   text-align: center;
 }
 
 section {
   border: 1px solid black;
-  background-color: rgb(87, 216, 233);
+  background-color: rgba(231, 161, 194, 0.726);
   height: 250px;
   overflow: auto;
 }
